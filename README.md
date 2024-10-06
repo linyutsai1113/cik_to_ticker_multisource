@@ -10,5 +10,5 @@ git clone https://github.com/your-repo/cik-to-ticker-mapping.git
 cd cik-to-ticker-mapping
 
 ```
-or you can only mapped json file in this repository.
+or you can only download the mapped json file in this repository.
 
